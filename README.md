@@ -54,47 +54,6 @@
 | **LocalStorage Web API** | Client-side persistent storage for active plans and bookmarks |
 
 ---
-
-## 🚀 Getting Started Locally
-
-### Prerequisites
-- Node.js (v18 or higher recommended)
-- npm or yarn
-
-### Installation
-
-1. Clone or navigate to the repository:
-   ```bash
-   cd fitlog
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open your browser and visit:
-   ```
-   http://localhost:3000
-   ```
-
----
-
-## 🏗️ Building for Production
-
-To create an optimized production build:
-```bash
-npm run buil
-npm run dev
-```
-
----
-
 ## 🌐 API Endpoints Used
 
 - **Primary API**: `https://api.abcz.workers.dev/api/fitlog`

@@ -22,7 +22,7 @@ export const Footer: React.FC = () => {
 
         {/* Right: Copyright line */}
         <p className="text-xs text-neutral-400 text-center sm:text-right">
-          © 2026 FitLog — Workout Library. Train hard, log honest.
+                    © 2026 FitLog —Workout Library. Train hard, log honest.
         </p>
       </div>
     </footer>

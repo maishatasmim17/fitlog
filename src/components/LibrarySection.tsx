@@ -155,7 +155,7 @@ export const LibrarySection: React.FC<LibrarySectionProps> = ({ initialWorkouts 
             <button
               key={group}
               onClick={() => setSelectedMuscle(group)}
-              className={`shrink-0 px-3.5 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider transition-all duration-200 ${
+              className={`shrink-0 px-3.6 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider transition-all duration-200 ${
                 isActive
                   ? "bg-[#ccff00] text-black shadow-sm"
                   : "bg-[#11151e] border border-[#1f2635] text-neutral-400 hover:text-white hover:border-neutral-600"

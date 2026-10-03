@@ -121,7 +121,7 @@ export const Navbar: React.FC = () => {
                 : "text-neutral-300 hover:bg-neutral-800"
             }`}
           >
-            My Plan
+           
           </Link>
         </div>
       )}

@@ -89,8 +89,8 @@
 
 To create an optimized production build:
 ```bash
-npm run build
-npm run start
+npm run buil
+npm run dev
 ```
 
 ---
@@ -102,7 +102,6 @@ npm run start
 - **Backup API**: `https://api.api-store.workers.dev/api/fitlog`
 - **Backup Details**: `https://api.api-store.workers.dev/api/fitlog/:id`
 
----
 
 ## 📱 Responsive Breakpoints Tested
 

@@ -109,8 +109,3 @@ npm run dev
 - **Tablet**: `640px – 1024px` (2-column library grid, responsive spec panels)
 - **Desktop**: `> 1024px` (3-column library grid, 2-column detailed view, side-by-side hero)
 
----
-
-## 📄 License & Credits
-
-© 2026 FitLog — Workout Library. Train hard, log honest.
